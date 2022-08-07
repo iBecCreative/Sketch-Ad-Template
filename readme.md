@@ -8,14 +8,14 @@ We want to install this sketch file as a template so that any time you need to c
 
 This can be done in only a few steps.
 
-1. [Download the latest version of the template]().
+1. [Download the latest version of the template](https://github.com/iBecCreative/Sketch-Ad-Template/archive/refs/tags/1.0.zip), unzip it.
 2. Navigate to the finder.
-3. From the menu bar, click 'GO', and then click `Go To Folder`.
+3. From the menu bar, click `Go`, and then click `Go To Folder`.
 4. In the text input that appears paste the following text into it: `~/Library/Application Support/com.bohemiancoding.sketch3/Templates`, then click enter.
 5. A new finder window will appear, this is the destination for the sketch template.
 6. Drag the downloaded 'iBec Display Ad Template' into the folder that was opened. That's it.
 
-## Creating a new set of ads from the template.
+## Creating a new set of ads from the template
 
 Creating a new set of ads is done by opening Sketch; clicking on the `File Menu->New From Template`, and clicking on `iBec Display Ad Template`.
 
